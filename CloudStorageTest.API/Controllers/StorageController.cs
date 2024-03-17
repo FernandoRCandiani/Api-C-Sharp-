@@ -7,5 +7,12 @@ namespace CloudStorageTest.API.Controllers
     [ApiController]
     public class StorageController : ControllerBase
     {
+        
+
+
+
+
+
+
     }
 }
