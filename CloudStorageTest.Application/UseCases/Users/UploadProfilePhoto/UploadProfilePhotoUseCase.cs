@@ -31,9 +31,9 @@ public class UploadProfilePhotoUseCase : IUploadProfilePhotoUseCase
         {
             Id = 1,
             Name = "Fernando",
-            Email = "candianirfernando@gmail.com",
-            RefreshToken = "1//04iphWwU8RZPGCgYIARAAGAQSNwF-L9IrfNeX4EgsmTiRBfYfcv-DvpffwXvHVLL7lXVUrNp0IvEQT2XrzszMjzVIlRrxooUPvow",
-            AccessToken = "ya29.a0Ad52N3_oXQRhE3D7h_3GaJbIgLuUZNUiW_ZZpAJI9NqPLrQ_TaBGPsy091JP1tO2z-7bjB0Mb7sTKaf156FeqNnHd3cLy7ghLDSlSoC7hisTeZzgOKPXVcUxEbRlUYNUm9Z4V5SUEECuWEImmc3QuXAkulcxNbmKM3gFaCgYKAbUSARASFQHGX2Mi2fphLkacEL7ALizvYcyHzg0171"
+            Email = "",
+            RefreshToken = "",
+            AccessToken = ""
         };
     }
 }
