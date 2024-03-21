@@ -1,0 +1,16 @@
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net8.0\CloudStorageTest.Application.deps.json
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net8.0\CloudStorageTest.Application.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net8.0\CloudStorageTest.Application.pdb
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.csproj.AssemblyReference.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.AssemblyInfoInputs.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.AssemblyInfo.cs
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.sourcelink.json
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\refint\CloudStorageTest.Application.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.pdb
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\ref\CloudStorageTest.Application.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net8.0\CloudStorageTest.Domain.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\bin\Debug\net8.0\CloudStorageTest.Domain.pdb
+C:\Users\FernandoGamer\Desktop\Projeto C#\API  para Upload de Arquivos\CloudStorageTest\CloudStorageTest.Application\obj\Debug\net8.0\CloudStorageTest.Application.csproj.CopyComplete

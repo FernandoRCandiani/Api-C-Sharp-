@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tlhET5iKT+VfNvwPCaSEaRDT6uJgGv/UAA3hbWK2lO3ldnefc83gCj9qsVclXTh5tzH4ZrxXaLSXGDRRP6keA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\API  para Upload de Arquivos\\CloudStorageTest\\CloudStorageTest.Application\\CloudStorageTest.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FernandoGamer\\.nuget\\packages\\file.typechecker\\4.0.0\\file.typechecker.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

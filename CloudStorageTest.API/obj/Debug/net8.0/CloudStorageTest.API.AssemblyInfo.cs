@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudStorageTest.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88644df11795318ff42533748666804ffea1c610")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudStorageTest.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudStorageTest.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
